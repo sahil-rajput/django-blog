@@ -24,11 +24,6 @@ Blog web application in Django
 
 <img width="1437" alt="Screenshot 2019-06-24 at 10 13 09 PM" src="https://user-images.githubusercontent.com/20112458/60036637-49ac4700-96cd-11e9-8141-e1c919ff874d.png">
 
-
-# How to run
-
-1. Install Django
-2. Go to the directory and run 'python manage.py runserver'
-
+and many more ...
 
 
