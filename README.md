@@ -27,3 +27,7 @@ Blog web application in Django
 and many more ...
 
 
+# How to run
+
+1. Go to the project directory.
+2. Run 'python manage.py runserver'
