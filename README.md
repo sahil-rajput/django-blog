@@ -26,8 +26,22 @@ Blog web application in Django
 
 and many more ...
 
+## Release History
 
-# How to run
+   - 0.0.1
+            
+        - Demo blog
 
-1. Go to the project directory.
-2. Run 'python manage.py runserver'
+## Meta
+
+Sahil Rajput – sahil.rajput.0196@gmail.com
+
+Distributed under the MIT license. See `LICENSE` for more information.
+
+## Contributing
+
+1. Fork it (<https://github.com/sahil-rajput/django-blog/fork>)
+2. Create your feature branch (`git checkout -b feature/fooBar`)
+3. Commit your changes (`git commit -am 'Add some fooBar'`)
+4. Push to the branch (`git push origin feature/fooBar`)
+5. Create a new Pull Request
