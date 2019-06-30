@@ -30,7 +30,7 @@ and many more ...
 
    - 0.0.1
             
-        - Demo blog
+        - Full stack Blog with Posts, Comment, Add post, Edit Post, Draft, Login, Managing comments and Post.
 
 ## Meta
 
